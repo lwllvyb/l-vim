@@ -61,3 +61,6 @@ ctrl + <sapce> 得到当前tab的buffer列表
 
     esc/q   关闭buffer列表
 
+3)  运行当前文件 (https://github.com/thinca/vim-quickrun）
+    命令：
+    : QuickRun
